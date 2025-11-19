@@ -1,0 +1,13 @@
+﻿,Statistic,Value
+0,Population Mean,120.894531
+1,Sample Mean,130.36
+2,Population Max,199
+3,Sample Max,197
+4,Population 98th Percentile BMI,47.526
+5,Sample 98th Percentile BMI,45.264
+6,Population Mean BP,69.105469
+7,Bootstrap Mean of Means,69.152227
+8,Population SD BP,19.355807
+9,Bootstrap Mean of SDs,19.192793
+10,Population 98th Percentile BP,99.32
+11,Bootstrap 98th Percentile,98.03292
