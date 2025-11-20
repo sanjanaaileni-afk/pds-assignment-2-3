@@ -1,0 +1,7 @@
+﻿CLEANED DATA,,,,,,,,,,,,,,,,,
+,Unnamed: 0,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,Seats,New_Price,Price,Fuel_Type_Electric,Fuel_Type_Petrol,Transmission_Manual,Age_of_Car,Price_per_CC
+0,1,Hyundai Creta 1.6 CRDi SX Option,Pune,2015,41000,First,19.67,1582,126.2,5,4.78,12.5,FALSE,FALSE,TRUE,10,0.007901
+1,2,Honda Jazz V,Chennai,2011,46000,First,13,1199,88.7,5,8.61,4.5,FALSE,TRUE,TRUE,14,0.003753
+2,3,Maruti Ertiga VDI,Chennai,2012,87000,First,20.77,1248,88.76,7,4.78,6,FALSE,FALSE,TRUE,13,0.004808
+3,4,Audi A4 New 2.0 TDI Multitronic,Coimbatore,2013,40670,Second,15.2,1968,140.8,5,4.78,17.74,FALSE,FALSE,FALSE,12,0.009014
+4,6,Nissan Micra Diesel XV,Jaipur,2013,86999,First,23.08,1461,63.1,5,4.78,3.5,FALSE,FALSE,TRUE,12,0.002396
